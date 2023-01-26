@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Make sure this file is executable
-# chmod a+x .github/script/create-workflow-pr.sh
+
+chmod a+x .github/script/create-workflow-pr.sh
 
 git config user.name github-actions
 git config user.email github-actions@github.com
