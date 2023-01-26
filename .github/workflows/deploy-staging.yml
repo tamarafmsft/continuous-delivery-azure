@@ -9,8 +9,9 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <username>-azure-ttt
-  AZURE_WEBAPP_NAME: <username>-ttt-app
+staging-workflow
+  DOCKER_IMAGE_NAME: tamarafmsft-azure-ttt
+  AZURE_WEBAPP_NAME: tamarafmsft-ttt-app
   ###############################################
 
 jobs:
