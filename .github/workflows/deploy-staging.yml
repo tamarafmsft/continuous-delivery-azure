@@ -9,6 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
+staging-workflow
   DOCKER_IMAGE_NAME: tamarafmsft-azure-ttt
   AZURE_WEBAPP_NAME: tamarafmsft-ttt-app
   ###############################################
